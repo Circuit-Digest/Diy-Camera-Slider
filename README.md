@@ -4,7 +4,7 @@
 <br>
 
 <br>
-<a href="https://circuitdigest.com/tags/ESP32"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=ESP32 Tutorials Circuit Digest&color=%230076D6&style=social&logo=google-chrome&logoColor=%230076D6" alt="circuitdigest"/></a>
+<a href="https://circuitdigest.com/tags/Arduino"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Arduino Tutorials Circuit Digest&color=%230076D6&style=social&logo=google-chrome&logoColor=%230076D6" alt="circuitdigest"/></a>
 <br>
 
 [<h1>Click here](https://circuitdigest.com/tags/Arduino) For other Arduino tutorials.</h1>
